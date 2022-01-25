@@ -4,4 +4,4 @@ on-call-script
 - Output : Parsed CSV with 3 coloumns Created Date(converted to local time), Incident name, link to alert
 
 
-Removes adjacent
+Removes adjacent alerts 
